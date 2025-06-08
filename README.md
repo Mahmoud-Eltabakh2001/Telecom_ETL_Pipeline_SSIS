@@ -56,7 +56,6 @@ This project demonstrates a full SSIS (SQL Server Integration Services) data flo
 This ETL pipeline was built to provide a robust, auditable, and maintainable solution for ingesting and transforming telecom data from CSV files into a relational database. The design supports clear tracking of rejected data and makes error handling transparent and traceable.
 
 ---
----
 
 ## 📬 Contact
 Developed by [Mahmoud El-Tabakh](https://www.linkedin.com/in/mahmoud-eltabakh2001)  
