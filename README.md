@@ -1,8 +1,6 @@
 # Telecom_ETL_Pipeline_SSIS
 
 
-# Telecom_ETL_Pipeline_SSIS
-
 ## 📌 Overview
 This project demonstrates a full SSIS (SQL Server Integration Services) data flow pipeline designed for processing telecom CSV files. The pipeline handles raw data ingestion, transformation, error handling, data enrichment through lookup, and auditing — all tailored to telecom domain data such as subscriber records.
 
